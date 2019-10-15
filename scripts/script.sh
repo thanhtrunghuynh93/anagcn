@@ -1,4 +1,4 @@
-PD=data/suhi_allmv_tmdb
+PD=data/allmv_tmdb
 
 python -u network_alignment.py \
 --source_dataset ${PD}/allmv/graphsage/ \

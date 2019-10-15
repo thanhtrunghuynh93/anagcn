@@ -7,7 +7,6 @@ from utils.graph_utils import load_gt
 import torch.nn.functional as F
 import torch.nn as nn
 from algorithms.ANAGCN.utils import *
-from algorithms.ANAGCN.losses import *
 from sklearn.preprocessing import normalize
 from scipy.sparse import coo_matrix
 from scipy.sparse import csr_matrix
