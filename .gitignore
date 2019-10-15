@@ -1,6 +1,5 @@
 *__pycache__*
 *.class
-*.npy
 tools/
 output/
 GCN_visual
